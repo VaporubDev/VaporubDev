@@ -1,7 +1,7 @@
 ### Olá! Meu nome é VaporubBerg 🙋🏻‍♀️
 
 ### Um pouco sobre mim:
-- 🔭 Atualmente não estou trabalhando
+- 🔭 Atualmente não estou trabalhando.
 - 🌱 Atualmente estou aprendendo: HTML, CSS, JavaScript e Python.
 - 💬 Pergunte-me sobre: Fique à vontade para me perguntar sobre mim! Estarei sempre disposta a responder.
 - 📫 Como entrar em contato comigo: Você pode entrar em contato comigo por aqui mesmo.
