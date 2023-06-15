@@ -5,4 +5,4 @@
 - 💬 Pergunte-me sobre: Fique à vontade para me perguntar sobre mim! Estarei sempre disposta a responder.
 - 📫 Como entrar em contato comigo: Você pode entrar em contato comigo por aqui mesmo.
 - 😄 Pronomes: Ela/dela
-- ⚡ Curiosidade divertida: 
+### ⁂ Se quser entrar em contato pode me enviar um e-mail! 😎 ⁂
