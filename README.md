@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-### Olá! Meu nome é VaporubBerg 🙋🏻‍♀️<br><br>- 🔭 Atualmente não estou trabalhando.<br>- 🌱 Atualmente estou aprendendo: HTML, CSS, JavaScript e Python.<br>- 💬 Pergunte-me sobre: Fique à vontade para me perguntar sobre mim! Estarei sempre disposta a responder.<br>- 📫 Como entrar em contato comigo: Você pode entrar em contato comigo por aqui mesmo.<br>- 😄 Pronomes: Ela/dela.
+### Olá! Meu nome é VaporubBerg 🙋🏻‍♀️<br><br>- 🔭 Atualmente não estou trabalhando.<br>- 🌱 Atualmente estou aprendendo: HTML, CSS, JavaScript e Python.<br>- 💬 Pergunte-me sobre: Fique à vontade para me perguntar sobre mim! Estarei sempre disposta a responder.<br>- 📫 Como entrar em contato comigo: Você pode entrar em contato comigo por aqui mesmo.<br>- 😄 
 
 
 ## 🌐 Redes Sociais:
