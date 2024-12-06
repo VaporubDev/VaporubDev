@@ -2,7 +2,7 @@
 ### Olá! Meu nome é VaporubDev 🙋🏻‍♀️<br><br>- 🔭 Atualmente não estou trabalhando.<br>- 🌱 Atualmente estou aprendendo: HTML, CSS, JavaScript e Python.<br>- 💬 Pergunte-me sobre: Fique à vontade para me perguntar sobre mim! Estarei sempre disposta a responder.<br>- 📫 Como entrar em contato comigo: Você pode entrar em contato comigo por aqui mesmo.<br> 
 
 
-## 🌐 Redes Sociais:
+# 🌐 Redes Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/T72GANsC) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaporub_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erica-paixao-gois/) 
 
 # 💻 Tech Stack:
