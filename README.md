@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-### Olá! Meu nome é Érica Paixão 🙋🏻‍♀️<br><br>- 🔭 Atualmente não estou trabalhando.<br>- 🌱 Atualmente estou aprendendo: HTML, CSS, JavaScript e Python.<br>- 💬 Fique à vontade para me perguntar sobre mim! Estarei sempre disposta a responder.<br>
+### Olá! Meu nome é Érica Paixão 🙋🏻‍♀️<br><br>- 💼 Trabalhando na WEX Brasil.<br>- 📚 Aprendendo: HTML, CSS, JavaScript, Python.<br>- 💬 Pergunte-me! Estou à disposição para responder.<br>
 
 
 # 🌐 Redes Sociais:
