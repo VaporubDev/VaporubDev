@@ -1,8 +1,7 @@
-# 💫 Sobre Mim:
-### Olá! Meu nome é Érica Paixão 🙋🏻‍♀️<br><br>- 💼 Trabalhando na WEX Brasil.<br>- 📚 Aprendendo: HTML, CSS, JavaScript, Python.<br>- 💬 Pergunte-me! Estou à disposição para responder.<br>
+# 💫 About Me:
+### Hello! My name is Érica Paixão 🙋🏻‍♀️<br><br>- 💼 Working at WEX Brazil.<br>- 📚 Learning: HTML, CSS, JavaScript, Python.<br>- 💬 Ask me anything! I'm happy to help.
 
-
-# 🌐 Redes Sociais:
+# 🌐 Social Media:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ujKnrkef) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaporub_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erica-paixao-gois/) 
 
 # 💻 Tech Stack:
