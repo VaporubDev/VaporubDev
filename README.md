@@ -16,8 +16,8 @@
 ---
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VaporubDev&show_icons=true&theme=jolly&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaporubDev&layout=compact&theme=jolly&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VaporubDev&show_icons=true&theme=jolly&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VaporubDev&layout=compact&theme=jolly&hide_border=true" />
 </p>
 
 ---
